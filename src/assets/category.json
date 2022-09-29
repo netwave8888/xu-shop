@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "categories":  [
+        { 
+          "id" : "1",
+          "key": "Bread",
+          "name": "Bread"
+        },
+        { 
+          "id" : "2",
+          "key": "Dairy",
+          "name": "Dairy"
+        },
+        { 
+          "id" : "3",
+          "key": "Fruits",
+          "name": "Fruits"
+        },
+        { 
+          "id" : "4",
+          "key": "Seasonings",
+          "name": "Seasonings and Spices"
+        },
+        { 
+          "id" : "5",
+          "key": "Vegetables",
+          "name": "Vegetables"
+        }]
+    
+  }

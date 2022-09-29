@@ -1,0 +1,32 @@
+[
+    {
+        "name":"Marvin Xu",
+        "email":"marvinxu@netwave.com",
+        "role":"admin",
+        "isLogin": false
+        },
+        {
+            "name":"Julie",
+            "email":"julie@domain.com",
+            "role":"admin",
+            "isLogin": false
+        },
+        {
+            "name":"michelle",
+            "email":"michelle@domain.com",
+            "role":"dev",
+            "isLogin": false
+        },
+        {
+            "name":"Helen",
+            "email":"helen@domain.com",
+            "role":"admin",
+            "isLogin": false
+        },
+        {
+            "name":"Alice",
+            "email":"alice@netwave.com",
+            "role":"dev",
+            "isLogin": false
+        }
+    ]
