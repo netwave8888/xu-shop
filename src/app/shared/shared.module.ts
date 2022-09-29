@@ -17,21 +17,21 @@ import { NgbModal, NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 @NgModule({
   declarations: [
-
-  
     ProductCardComponent,
     ProductQuantityComponent
   ],
   imports: [
     CommonModule,
-    HttpClientModule
+    FormsModule,
+    HttpClientModule,
+    NgbModule
   ],
   exports: [
     CommonModule,
     FormsModule,
     ProductCardComponent,
-    ProductQuantityComponent
-    // NgbModule
+    ProductQuantityComponent,
+    NgbModule
   ],
   providers: [
     AuthService,
